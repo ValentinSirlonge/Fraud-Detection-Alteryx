@@ -17,7 +17,8 @@ The main goals of the project were:
 
 ## Literature Review
 Key paper analyzed:**"Credit Card Fraud Detection Using AdaBoost and Majority Voting"**  
-*K. Randhawa et al., IEEE Access, 2018*  [View the paper](https://ieeexplore.ieee.org/abstract/document/8292883/)
+*K. Randhawa et al., IEEE Access, 2018*
+[🔗 View the paper](https://ieeexplore.ieee.org/abstract/document/8292883/)
 This paper inspired the use of **Boosting algorithms** (like AdaBoost and XGBoost), which combine weak learners to significantly improve classification performance.
 
 
